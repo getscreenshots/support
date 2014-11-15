@@ -1,5 +1,5 @@
 # GetScreenshots support
 
-Do you Need a new feature? Do you have some problem with the API ?
+Do you need a new feature or have some problem with the API ?
 
-Create a new issue.
+[Create a new issue](https://github.com/getscreenshots/support/issues)
